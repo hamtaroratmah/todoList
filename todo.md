@@ -9,7 +9,7 @@ cliqué sur un dashboard dans le menu/header injectera les informations du dashb
 Les dashboards sont constitué de listes pouvant être déplacées pour changer l'ordre
 une liste est constituée de tasks pouvant être déplacées pour changer l'ordre des tasks
 une task est constitué d'un titre, d'une description, d'un état (en cours, achevé, annulé), d'une liste de subtasks pouvant elles même être déplacées, 
-un attribut non obligatoire dans la classe task permettra aux subtasks de ne pas avoir elles même de subtasks pour ne pas plonger à l'infini
+un attribut non obligatoire dans la classe task permettra aux subtasks de ne pas avoir elles même de subtasks pour ne pas plonger à l'infini.
 
 
-Il doit être possible de créer un dashboard, une liste, une task ou une subtask et de mettre à jour les informations
+Il doit être possible de créer un dashboard, une liste, une task ou une subtask et de mettre à jour les informations.

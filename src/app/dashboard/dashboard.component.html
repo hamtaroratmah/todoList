@@ -1,0 +1,4 @@
+<div id="dashboard{{dashboard.id}}">
+  <p>{{dashboard.title}}</p>
+  <app-list *ngFor="let list of dashboard.lists" [list]="list"></app-list>
+</div>
